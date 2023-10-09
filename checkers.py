@@ -1,7 +1,8 @@
-import pygame
 import csv
-import os, sys
+import os
+import sys
 
+import pygame
 
 WIN_WIDTH = 700
 WIN_HEIGHT = 700
